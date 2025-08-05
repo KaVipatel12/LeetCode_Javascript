@@ -15,4 +15,4 @@ The goal of this challenge is to master the core topics of Data Structures & Alg
 | 1   | Flower Bed Problem | Easy | ✅ Solved | [Link](https://leetcode.com/problems/can-place-flowers/) |
 | ... | ... | ... | ⏳ In Progress | ... |
 
-> ✨ Total Solved: `3 / 75`
+> ✨ Total Solved: `4 / 75`
