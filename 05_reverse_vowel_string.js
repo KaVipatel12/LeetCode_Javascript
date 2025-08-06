@@ -19,7 +19,7 @@ var reverseVowels = function(s) {
         }
     }
 
-    return newStr; 
+    return newStr
 };
 
 console.log(reverseVowels("Parle Gi"))
