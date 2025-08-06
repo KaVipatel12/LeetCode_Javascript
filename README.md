@@ -13,6 +13,7 @@ The goal of this challenge is to master the core topics of Data Structures & Alg
 | 1   | 	Greatest Common Divisor of Strings | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/greatest-common-divisor-of-strings/) |
 | 1   | Kids With the Greatest Number of Candies | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
 | 1   | Flower Bed Problem | Easy | ✅ Solved | [Link](https://leetcode.com/problems/can-place-flowers/) |
+| 2   | Reverse the vowel of the string | Easy | ✅ Solved | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string) |
 | ... | ... | ... | ⏳ In Progress | ... |
 
-> ✨ Total Solved: `4 / 75`
+> ✨ Total Solved: `5 / 75`
