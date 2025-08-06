@@ -7,13 +7,14 @@ The goal of this challenge is to master the core topics of Data Structures & Alg
 
 ## 🔢 Progress
 
-| Day | Problem | Difficulty | Status | Link |
+| SR.No. | Day | Problem | Difficulty | Status | Link |
 |-----|---------|------------|--------|------|
-| 1   | Merge Strings Alternately | Easy | ✅ Solved | [Link](https://leetcode.com/problems/merge-strings-alternately/) |
-| 1   | 	Greatest Common Divisor of Strings | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/greatest-common-divisor-of-strings/) |
-| 1   | Kids With the Greatest Number of Candies | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
-| 1   | Flower Bed Problem | Easy | ✅ Solved | [Link](https://leetcode.com/problems/can-place-flowers/) |
-| 2   | Reverse the vowel of the string | Easy | ✅ Solved | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string) |
-| ... | ... | ... | ⏳ In Progress | ... |
+| 1   | 1   | Merge Strings Alternately | Easy | ✅ Solved | [Link](https://leetcode.com/problems/merge-strings-alternately/) |
+| 2   | 1   | 	Greatest Common Divisor of Strings | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/greatest-common-divisor-of-strings/) |
+| 3   | 1   | Kids With the Greatest Number of Candies | Easy | ✅ Solved | [Link]( https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
+| 4   | 1   | Flower Bed Problem | Easy | ✅ Solved | [Link](https://leetcode.com/problems/can-place-flowers/) |
+| 5   | 2   | Reverse the vowel of the string | Easy | ✅ Solved | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string) |
+| 6   | 2   | Reverse the word of the string | Medium | ✅ Solved | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) |
+|     | ... | ... | ... | ⏳ In Progress | ... |
 
-> ✨ Total Solved: `5 / 75`
+> ✨ Total Solved: `6 / 75`
