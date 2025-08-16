@@ -15,7 +15,8 @@ The goal of this challenge is to master the core topics of Data Structures & Alg
 | 4   | 1   | Flower Bed Problem | Easy | ✅ Solved | [Link](https://leetcode.com/problems/can-place-flowers/) |
 | 5   | 2   | Reverse the vowel of the string | Easy | ✅ Solved | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string) |
 | 6   | 2   | Reverse the word of the string | Medium | ✅ Solved | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) |
-| 7   | 3   | Increasing triplet subsequence | Medium | ✅ Solved | [Link](https://leetcode.com/problems/increasing-triplet-subsequence/) |
+| 7   | 3   | Product of array except self | Medium | ✅ Solved | [Link](https://leetcode.com/problems/product-of-array-except-self) |
+| 8   | 4   | Increasing triplet subsequence | Medium | ✅ Solved | [Link](https://leetcode.com/problems/increasing-triplet-subsequence/) |
 |     | ... | ... | ... | ⏳ In Progress | ... |
 
-> ✨ Total Solved: `7 / 75`
+> ✨ Total Solved: `8 / 75`
